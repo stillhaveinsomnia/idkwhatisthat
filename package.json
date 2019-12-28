@@ -1,0 +1,17 @@
+{
+  "name": "economybot",
+  "version": "1.0.0",
+  "description": "Guys, It's Bot Umm...",
+  "main": "economy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Obito, Night",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "ms": "^2.1.1",
+    "quick.db": "^7.0.0-b16"
+  }
+}
